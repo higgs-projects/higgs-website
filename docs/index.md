@@ -1,17 +1,30 @@
-# Welcome to MkDocs
+# 欢迎来到Higgs Projects 👋
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Higgs项目致力于研究和推广数字化行业的底层技术、底层逻辑，提升大部分中国程序员对计算机底层逻辑的认知，从而激发更多的底层创新。
+  
+- 人工智能
+  - 线下代数、概率论、微积分等基础知识
+  - 经典机器学习、深度学习算法
+  - 车牌识别、人脸识别、信息流推荐、大模型应用
+    
+- 操作系统
+  - 计算机体系架构、操作系统原理
+  - 编译工具链分析，GCC/llvm等研究
+  - 系统编程、驱动编程、网络编程
+  - 虚拟化、模拟器QEMU分析
+  - 基于树莓派定制一个计算机
+    
+- 云计算
+  - 容器化原理分析（OCI)
+  - Docker/Kubneters源码分析
+  - 自己实现一个容器、容器编排平台？
+    
+- 数据库
+  - 数据结构与算法
+  - Redis源码分析
+  - Oceanbase源码分析
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- 多媒体与网络传输
+  - FFmpeg源码分析
+  - WebRTC源码分析
+  - 基于WukongIM和livekit实现一个即时通讯Demo
